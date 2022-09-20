@@ -1,0 +1,17 @@
+create a new folder,
+inside the folder create two files
+index.html,
+results.html
+
+Inside a index.html create a form with following inputs:
+name (required),
+last name,
+height, (number)
+date of birth, (date)
+gender, (radio button)
+allow us to send email (check box),
+favorite color (select>option)
+
+on submit form should be send to results.html
+
+in results.html add script, in the script get Show all passed parameters on the screen hint:(change some HTMLElement.innerText to window.location.search)  
