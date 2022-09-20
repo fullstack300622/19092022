@@ -1,0 +1,17 @@
+session vs cookie: watch until he start explaining about tokens (but you still can watch it because this is very good knowalge)
+https://www.youtube.com/watch?v=GhrvZ5nUWNg
+
+forms:
+https://www.youtube.com/watch?v=2O8pkybH6po
+
+Also tip: after you finish watching those videos I highly recommend you to not stop there.
+You can start search for some tutorials on youtube there is a lot.
+you can try search for things like:
+javascript tutorial,
+javascript map tutorial,
+javascript array tutorial,
+javascript callback functions,
+etc etc..
+
+Also don't be scared to go a little ahead!
+Even if you will learn something that we won't learn in the class, this knowledge probably will be helpful in the future and also improve you as software developer.
